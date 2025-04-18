@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     private float horizontalMove;
     private bool facingRight = true;
     private bool canMove = true;
+    public bool recentlyTeleported = false;
     
     
     public int extraJumps = 1;
@@ -163,5 +164,20 @@ public class PlayerController : MonoBehaviour
             rb.bodyType = RigidbodyType2D.Dynamic;
             enabled = true;
         }
+    }
+    
+    public void SetTeleportCooldown(float duration)
+    {
+        if (!recentlyTeleported)
+        {
+            StartCoroutine(TeleportCooldownRoutine(duration));
+        }
+    }
+    
+    private System.Collections.IEnumerator TeleportCooldownRoutine(float duration)
+    {
+        recentlyTeleported = true;
+        yield return new WaitForSeconds(duration);
+        recentlyTeleported = false;
     }
 }
