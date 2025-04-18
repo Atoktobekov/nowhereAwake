@@ -4,6 +4,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody2D rb;
+    private Animator animator;
     
     private float horizontalMove;
     private bool facingRight = true;
@@ -24,7 +25,7 @@ public class PlayerController : MonoBehaviour
     [Range(0, 5f)] public float checkGroundRadius = 0.3f;
     void Start()
     {
-        //animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
     }
     
@@ -57,7 +58,7 @@ public class PlayerController : MonoBehaviour
 
         Move();
         checkGround();
-        //UpdateAnimator();
+        UpdateAnimator();
     }
     
     private void Move()
@@ -65,13 +66,12 @@ public class PlayerController : MonoBehaviour
         Vector2 targetVelocity = new Vector2(horizontalMove * 5f, rb.linearVelocity.y);
         rb.linearVelocity = targetVelocity;
     }
-   /* private void UpdateAnimator()
+   private void UpdateAnimator()
     {
-        animator.SetFloat("velocityY", rb.linearVelocity.y);
-        animator.SetBool("isJumping", !isGrounded); 
-        animator.SetBool("isGrounded", isGrounded); 
-        animator.SetBool("isRunning", isGrounded && Mathf.Abs(rb.linearVelocity.x) > 0.07f);
-    }*/
+        animator.SetBool("Jump", !isGrounded); 
+        //animator.SetBool("isGrounded", isGrounded); 
+        animator.SetBool("Run", isGrounded && Mathf.Abs(rb.linearVelocity.x) > 0.07f);
+    }
 
     private void Flip()
     {
@@ -90,10 +90,10 @@ public class PlayerController : MonoBehaviour
         if ((isGrounded || jumpCount<extraJumps)
             && (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)))
         {
-            //AudioManager.instance.PlaySFX("jump");
+            //AudioManager.instance.PlaySFX("Jump");
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce); // Устанавливаем вертикальную скорость
             jumpCount++;
-            //animator.SetBool("isJumping", true);
+            animator.SetBool("Jump", true);
         }
 
     }
@@ -112,7 +112,7 @@ public class PlayerController : MonoBehaviour
     {
         if (rb != null)
         {   //AudioManager.instance.PlaySFX("hit");
-            //animator.SetTrigger("Hit");
+            animator.SetTrigger("Hit");
             rb.linearVelocity = new Vector2(vector2.x * force, vector2.y * force);
             StartCoroutine(KnockbackCoroutine(0.2f));
         }
@@ -136,12 +136,10 @@ public class PlayerController : MonoBehaviour
     
     private void OnDrawGizmos()
     {
-        Gizmos.color = Color.red; // Цвет круга
+        Gizmos.color = Color.red; 
 
-        // Позиция проверки земли
         Vector2 groundCheckPos = new Vector2(transform.position.x, transform.position.y + checkGroundOffSetY);
 
-        // Рисуем круг, соответствующий checkGroundRadius
         Gizmos.DrawWireSphere(groundCheckPos, checkGroundRadius);
     }
     
@@ -158,7 +156,6 @@ public class PlayerController : MonoBehaviour
         if (isDead)
         {
             rb.bodyType = RigidbodyType2D.Static;
-//            rb.velocity = Vector2.zero;
             enabled = false;
         }
         else
