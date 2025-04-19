@@ -113,7 +113,6 @@ public class PlayerController : MonoBehaviour
     {
         if (rb != null)
         {   //AudioManager.instance.PlaySFX("hit");
-            animator.SetTrigger("Hit");
             rb.linearVelocity = new Vector2(vector2.x * force, vector2.y * force);
             StartCoroutine(KnockbackCoroutine(0.2f));
         }
