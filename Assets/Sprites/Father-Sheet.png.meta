@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 37866eaa330922445aad5196828dc8a5
+guid: 69abc4f06fcc1b64d95a95761c448c60
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8768656139186891700
-    second: Brother2_0
+      213: 7602494030102997737
+    second: Father-Sheet_0
+  - first:
+      213: -6816141312652478185
+    second: Father-Sheet_1
+  - first:
+      213: -4130702998105340677
+    second: Father-Sheet_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Brother2_0
+      name: Father-Sheet_0
       rect:
         serializedVersion: 2
-        x: 309
-        y: 249
-        width: 290
-        height: 323
+        x: 59
+        y: 191
+        width: 78
+        height: 182
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c44973223b97f4680800000000000000
-      internalID: -8768656139186891700
+      spriteID: 9ea21576a0c718960800000000000000
+      internalID: 7602494030102997737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Father-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 191
+        width: 78
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719fb70f6933861a0800000000000000
+      internalID: -6816141312652478185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Father-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 78
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf44a45328bcca6c0800000000000000
+      internalID: -4130702998105340677
       vertices: []
       indices: 
       edges: []
@@ -125,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -134,8 +184,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Brother2_0: -8768656139186891700
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

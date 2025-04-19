@@ -1,10 +1,34 @@
 fileFormatVersion: 2
-guid: 37866eaa330922445aad5196828dc8a5
+guid: 10e11895cbde3e8489c07f6b211d0db1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8768656139186891700
-    second: Brother2_0
+      213: 6198348513542426327
+    second: Die-sheet2_0
+  - first:
+      213: -628792006265455230
+    second: Die-sheet2_1
+  - first:
+      213: -5023308799164765458
+    second: Die-sheet2_2
+  - first:
+      213: 8747057706376635807
+    second: Die-sheet2_3
+  - first:
+      213: 9122821968287560045
+    second: Die-sheet2_4
+  - first:
+      213: 5669528925105947680
+    second: Die-sheet2_5
+  - first:
+      213: 2035409545175533846
+    second: Die-sheet2_6
+  - first:
+      213: 1259950125520573286
+    second: Die-sheet2_7
+  - first:
+      213: -863037382072906510
+    second: Die-sheet2_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +70,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +124,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Brother2_0
+      name: Die-sheet2_0
       rect:
         serializedVersion: 2
-        x: 309
-        y: 249
-        width: 290
-        height: 323
+        x: 0
+        y: 0
+        width: 64
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +139,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c44973223b97f4680800000000000000
-      internalID: -8768656139186891700
+      spriteID: 7de44cff125f40650800000000000000
+      internalID: 6198348513542426327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sheet2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d31f470051647f0800000000000000
+      internalID: -628792006265455230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sheet2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa0b4034f994ab0800000000000000
+      internalID: -5023308799164765458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sheet2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f952c6ad3aac36970800000000000000
+      internalID: 8747057706376635807
       vertices: []
       indices: 
       edges: []
@@ -125,7 +215,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 95011a1c3364ac7449811f9c6ad24302
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +225,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Brother2_0: -8768656139186891700
+      Die-sheet2_0: 6198348513542426327
+      Die-sheet2_1: -628792006265455230
+      Die-sheet2_2: -5023308799164765458
+      Die-sheet2_3: 8747057706376635807
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

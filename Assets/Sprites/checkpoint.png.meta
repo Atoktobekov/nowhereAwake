@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: 1a226306689afe94c9d99a6b59762d51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5588244012374682611
+    second: checkpoint_0
+  - first:
+      213: 6612178416756646888
+    second: checkpoint_1
+  - first:
+      213: 8484196705987056605
+    second: checkpoint_2
+  - first:
+      213: -7283843876124404370
+    second: checkpoint_3
+  - first:
+      213: -5269773527257775662
+    second: checkpoint_4
+  - first:
+      213: 578818272590451966
+    second: checkpoint_5
+  - first:
+      213: -5573889170522913239
+    second: checkpoint_6
+  - first:
+      213: 3883447168860151389
+    second: checkpoint_7
+  - first:
+      213: 2919271565075176553
+    second: checkpoint_8
+  - first:
+      213: 2820686468507147538
+    second: checkpoint_9
+  - first:
+      213: -2008339589859012262
+    second: checkpoint_10
+  - first:
+      213: 4979236698213194097
+    second: checkpoint_11
+  - first:
+      213: -7975947761236497633
+    second: checkpoint_12
+  - first:
+      213: 2790699337074044264
+    second: checkpoint_13
+  - first:
+      213: -2900337798318423153
+    second: checkpoint_14
+  - first:
+      213: 4507179978843428352
+    second: checkpoint_15
+  - first:
+      213: 4615260730762657424
+    second: checkpoint_16
+  - first:
+      213: 7162514055548003094
+    second: checkpoint_17
+  - first:
+      213: 6775297887725446293
+    second: checkpoint_18
+  - first:
+      213: 1336455799342667066
+    second: checkpoint_19
+  - first:
+      213: 8684111558645321423
+    second: checkpoint_20
+  - first:
+      213: 3781659475690398230
+    second: checkpoint_21
+  - first:
+      213: -7855510121744301432
+    second: checkpoint_22
+  - first:
+      213: 6759344970829652158
+    second: checkpoint_23
+  - first:
+      213: -892712151288691553
+    second: checkpoint_24
+  - first:
+      213: 8203745329950395922
+    second: checkpoint_25
+  - first:
+      213: -821095533102455944
+    second: checkpoint_26
+  - first:
+      213: 6965299359128775205
+    second: checkpoint_27
+  - first:
+      213: 3855621596086882857
+    second: checkpoint_28
+  - first:
+      213: 8872516007311097822
+    second: checkpoint_29
+  - first:
+      213: -4385381669227667670
+    second: checkpoint_30
+  - first:
+      213: 5557812613011472095
+    second: checkpoint_31
+  - first:
+      213: -7196518019040659477
+    second: checkpoint_32
+  - first:
+      213: 2735435760858791995
+    second: checkpoint_33
+  - first:
+      213: 8329629964196145059
+    second: checkpoint_34
+  - first:
+      213: 5496069490026046641
+    second: checkpoint_35
+  - first:
+      213: 3549410598700827455
+    second: checkpoint_36
+  - first:
+      213: -772605299591136831
+    second: checkpoint_37
+  - first:
+      213: 8035293120422416425
+    second: checkpoint_38
+  - first:
+      213: 7153039119646297537
+    second: checkpoint_39
+  - first:
+      213: 2510603982767927307
+    second: checkpoint_40
+  - first:
+      213: 4264877502760356209
+    second: checkpoint_41
+  - first:
+      213: 2296492240428489038
+    second: checkpoint_42
+  - first:
+      213: 1131481443101065219
+    second: checkpoint_43
+  - first:
+      213: 8863008276946626970
+    second: checkpoint_44
+  - first:
+      213: -6649199506671540796
+    second: checkpoint_45
+  - first:
+      213: 6472180213387030006
+    second: checkpoint_46
+  - first:
+      213: 6071324911124781074
+    second: checkpoint_47
+  - first:
+      213: 3724309435473877979
+    second: checkpoint_48
+  - first:
+      213: 1795790248563249753
+    second: checkpoint_49
+  - first:
+      213: 6545382967333537029
+    second: checkpoint_50
+  - first:
+      213: 4626570946848141414
+    second: checkpoint_51
+  - first:
+      213: 1605035114098987071
+    second: checkpoint_52
+  - first:
+      213: 2722904978298984137
+    second: checkpoint_53
+  - first:
+      213: 3286031346423228999
+    second: checkpoint_54
+  - first:
+      213: -265457178894525889
+    second: checkpoint_55
+  - first:
+      213: 3043590787973415311
+    second: checkpoint_56
+  - first:
+      213: 1727665146510084089
+    second: checkpoint_57
+  - first:
+      213: -1334858231041259812
+    second: checkpoint_58
+  - first:
+      213: -6337178686755212446
+    second: checkpoint_59
+  - first:
+      213: -318455665946151687
+    second: checkpoint_60
+  - first:
+      213: 5939097286768081553
+    second: checkpoint_61
+  - first:
+      213: 7687351804934553256
+    second: checkpoint_62
+  - first:
+      213: 5861642308904020438
+    second: checkpoint_63
+  - first:
+      213: -4254047870693806204
+    second: checkpoint_64
+  - first:
+      213: -2751566091983282727
+    second: checkpoint_65
+  - first:
+      213: 2533093902597874058
+    second: checkpoint_66
+  - first:
+      213: -6045497687546443054
+    second: checkpoint_67
+  - first:
+      213: 7818426173103637091
+    second: checkpoint_68
+  - first:
+      213: 2652244728560292076
+    second: checkpoint_69
+  - first:
+      213: 5385585715350206300
+    second: checkpoint_70
+  - first:
+      213: 3839822750751406664
+    second: checkpoint_71
+  - first:
+      213: -7368384160106913240
+    second: checkpoint_72
+  - first:
+      213: 5994636977207426869
+    second: checkpoint_73
+  - first:
+      213: -4216073466121852757
+    second: checkpoint_74
+  - first:
+      213: -1988454293292141020
+    second: checkpoint_75
+  - first:
+      213: -9041885901370265869
+    second: checkpoint_76
+  - first:
+      213: 1318733583260853032
+    second: checkpoint_77
+  - first:
+      213: 2704954564344849716
+    second: checkpoint_78
+  - first:
+      213: 7111021629063818638
+    second: checkpoint_79
+  - first:
+      213: 8879997436545234085
+    second: checkpoint_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: checkpoint_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 86
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d041434bda19272b0800000000000000
+      internalID: -5588244012374682611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 154
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3e84abc3d23cb50800000000000000
+      internalID: 6612178416756646888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 991
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d5e0f3fbedb570800000000000000
+      internalID: 8484196705987056605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 983
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65533c06969aea90800000000000000
+      internalID: -7283843876124404370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 750
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d10b0db5e00ed6b0800000000000000
+      internalID: -5269773527257775662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 614
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef45247f620680800800000000000000
+      internalID: 578818272590451966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 534
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926c595c45195a2b0800000000000000
+      internalID: -5573889170522913239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 436
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ed7ebef96c4e530800000000000000
+      internalID: 3883447168860151389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 314
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c543f7506538820800000000000000
+      internalID: 2919271565075176553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 196
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d9e120667152720800000000000000
+      internalID: 2820686468507147538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 179
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51991e98c1f024e0800000000000000
+      internalID: -2008339589859012262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1791699556dc91540800000000000000
+      internalID: 4979236698213194097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b2d6005cdbf4190800000000000000
+      internalID: -7975947761236497633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 939
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d6735e24e8ab620800000000000000
+      internalID: 2790699337074044264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 807
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83879a932eefb7d0800000000000000
+      internalID: -2900337798318423153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 517
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00617b98f48bc8e30800000000000000
+      internalID: 4507179978843428352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 999
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09efae29e23bc0040800000000000000
+      internalID: 4615260730762657424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 972
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6136eabb59c566360800000000000000
+      internalID: 7162514055548003094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 962
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59464552881b60e50800000000000000
+      internalID: 6775297887725446293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 951
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3594d9f77b0c8210800000000000000
+      internalID: 1336455799342667066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 895
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce0be2c379248870800000000000000
+      internalID: 8684111558645321423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 872
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612240ec1472b7430800000000000000
+      internalID: 3781659475690398230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 792
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88202ff1a2f9bf290800000000000000
+      internalID: -7855510121744301432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 767
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0ef9c30740ecd50800000000000000
+      internalID: 6759344970829652158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 727
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9443c737037c93f0800000000000000
+      internalID: -892712151288691553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 711
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e867b89ee89d170800000000000000
+      internalID: 8203745329950395922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 703
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a4c686f1ea94f0800000000000000
+      internalID: -821095533102455944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 670
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a60270dd6b9a060800000000000000
+      internalID: 6965299359128775205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 639
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9225517e96be18530800000000000000
+      internalID: 3855621596086882857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 632
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfbebfcc42812b70800000000000000
+      internalID: 8872516007311097822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 622
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fdc294b9ef323c0800000000000000
+      internalID: -4385381669227667670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 586
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdefbbeff11512d40800000000000000
+      internalID: 5557812613011472095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 574
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7326f8df4d02c90800000000000000
+      internalID: -7196518019040659477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 496
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3083efd45836f520800000000000000
+      internalID: 2735435760858791995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a76c56f15ac89370800000000000000
+      internalID: 8329629964196145059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 423
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b46ddde416f54c40800000000000000
+      internalID: 5496069490026046641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 383
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33c199422a024130800000000000000
+      internalID: 3549410598700827455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 343
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9394ec2972745f0800000000000000
+      internalID: -772605299591136831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 326
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9201bec2588138f60800000000000000
+      internalID: 8035293120422416425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 262
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd8dfe4e23b44360800000000000000
+      internalID: 7153039119646297537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 256
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b003094450577d220800000000000000
+      internalID: 2510603982767927307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 247
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17906921e73ef2b30800000000000000
+      internalID: 4264877502760356209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e495e2c7687cedf10800000000000000
+      internalID: 2296492240428489038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 216
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3004cfda064d3bf00800000000000000
+      internalID: 1131481443101065219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9920c4d11bbffa70800000000000000
+      internalID: 8863008276946626970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 126
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5e324174c49b3a0800000000000000
+      internalID: -6649199506671540796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 112
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdee3dec9dc1d950800000000000000
+      internalID: 6472180213387030006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2189293e6dda14450800000000000000
+      internalID: 6071324911124781074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 72
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb5e0703b76fa330800000000000000
+      internalID: 3724309435473877979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95219b077bdebe810800000000000000
+      internalID: 1795790248563249753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 599
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505cece312fd5da50800000000000000
+      internalID: 6545382967333537029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 568
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660b60773c1e43040800000000000000
+      internalID: 4626570946848141414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 502
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3016e3beea364610800000000000000
+      internalID: 1605035114098987071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 487
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c657a4b6a3b9c520800000000000000
+      internalID: 2722904978298984137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 471
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aea5479145a9d20800000000000000
+      internalID: 3286031346423228999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 399
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a1aec2a18e05cf0800000000000000
+      internalID: -265457178894525889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f818ece22b10d3a20800000000000000
+      internalID: 3043590787973415311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 143
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f78e841c46e9f710800000000000000
+      internalID: 1727665146510084089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd68741e281a97de0800000000000000
+      internalID: -1334858231041259812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_59
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 903
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26377c96f81dd08a0800000000000000
+      internalID: -6337178686755212446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_60
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 814
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4b192524e949bf0800000000000000
+      internalID: -318455665946151687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 662
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a3c400489eb6250800000000000000
+      internalID: 5939097286768081553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_62
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 416
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aef49cbcb5feaa60800000000000000
+      internalID: 7687351804934553256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 407
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9ef96af9cb85150800000000000000
+      internalID: 5861642308904020438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 303
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe9c1200696f4c0800000000000000
+      internalID: -4254047870693806204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 279
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd935fb73970d9d0800000000000000
+      internalID: -2751566091983282727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 172
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ed07cb7b572320800000000000000
+      internalID: 2533093902597874058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 87
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da495332e31a1ca0800000000000000
+      internalID: -6045497687546443054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 1296
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362857e3e21a08c60800000000000000
+      internalID: 7818426173103637091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_69
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 992
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce01d37478aaec420800000000000000
+      internalID: 2652244728560292076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_70
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1007
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57fdde8ca17dba40800000000000000
+      internalID: 5385585715350206300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_71
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 999
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a3003927ac94530800000000000000
+      internalID: 3839822750751406664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_72
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 991
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822663055ad3eb990800000000000000
+      internalID: -7368384160106913240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_73
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 975
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fbedfd19a313350800000000000000
+      internalID: 5994636977207426869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_74
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 959
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba86bd0358f7d75c0800000000000000
+      internalID: -4216073466121852757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_75
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 55
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426b8340b579764e0800000000000000
+      internalID: -1988454293292141020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_76
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe663dbda4c48280800000000000000
+      internalID: -9041885901370265869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_77
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82324aff4351d4210800000000000000
+      internalID: 1318733583260853032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_78
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435a85548dde98520800000000000000
+      internalID: 2704954564344849716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_79
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1002
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8de77eee7c6fa260800000000000000
+      internalID: 7111021629063818638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkpoint_80
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a478abce961c3b70800000000000000
+      internalID: 8879997436545234085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      checkpoint_0: -5588244012374682611
+      checkpoint_1: 6612178416756646888
+      checkpoint_10: -2008339589859012262
+      checkpoint_11: 4979236698213194097
+      checkpoint_12: -7975947761236497633
+      checkpoint_13: 2790699337074044264
+      checkpoint_14: -2900337798318423153
+      checkpoint_15: 4507179978843428352
+      checkpoint_16: 4615260730762657424
+      checkpoint_17: 7162514055548003094
+      checkpoint_18: 6775297887725446293
+      checkpoint_19: 1336455799342667066
+      checkpoint_2: 8484196705987056605
+      checkpoint_20: 8684111558645321423
+      checkpoint_21: 3781659475690398230
+      checkpoint_22: -7855510121744301432
+      checkpoint_23: 6759344970829652158
+      checkpoint_24: -892712151288691553
+      checkpoint_25: 8203745329950395922
+      checkpoint_26: -821095533102455944
+      checkpoint_27: 6965299359128775205
+      checkpoint_28: 3855621596086882857
+      checkpoint_29: 8872516007311097822
+      checkpoint_3: -7283843876124404370
+      checkpoint_30: -4385381669227667670
+      checkpoint_31: 5557812613011472095
+      checkpoint_32: -7196518019040659477
+      checkpoint_33: 2735435760858791995
+      checkpoint_34: 8329629964196145059
+      checkpoint_35: 5496069490026046641
+      checkpoint_36: 3549410598700827455
+      checkpoint_37: -772605299591136831
+      checkpoint_38: 8035293120422416425
+      checkpoint_39: 7153039119646297537
+      checkpoint_4: -5269773527257775662
+      checkpoint_40: 2510603982767927307
+      checkpoint_41: 4264877502760356209
+      checkpoint_42: 2296492240428489038
+      checkpoint_43: 1131481443101065219
+      checkpoint_44: 8863008276946626970
+      checkpoint_45: -6649199506671540796
+      checkpoint_46: 6472180213387030006
+      checkpoint_47: 6071324911124781074
+      checkpoint_48: 3724309435473877979
+      checkpoint_49: 1795790248563249753
+      checkpoint_5: 578818272590451966
+      checkpoint_50: 6545382967333537029
+      checkpoint_51: 4626570946848141414
+      checkpoint_52: 1605035114098987071
+      checkpoint_53: 2722904978298984137
+      checkpoint_54: 3286031346423228999
+      checkpoint_55: -265457178894525889
+      checkpoint_56: 3043590787973415311
+      checkpoint_57: 1727665146510084089
+      checkpoint_58: -1334858231041259812
+      checkpoint_59: -6337178686755212446
+      checkpoint_6: -5573889170522913239
+      checkpoint_60: -318455665946151687
+      checkpoint_61: 5939097286768081553
+      checkpoint_62: 7687351804934553256
+      checkpoint_63: 5861642308904020438
+      checkpoint_64: -4254047870693806204
+      checkpoint_65: -2751566091983282727
+      checkpoint_66: 2533093902597874058
+      checkpoint_67: -6045497687546443054
+      checkpoint_68: 7818426173103637091
+      checkpoint_69: 2652244728560292076
+      checkpoint_7: 3883447168860151389
+      checkpoint_70: 5385585715350206300
+      checkpoint_71: 3839822750751406664
+      checkpoint_72: -7368384160106913240
+      checkpoint_73: 5994636977207426869
+      checkpoint_74: -4216073466121852757
+      checkpoint_75: -1988454293292141020
+      checkpoint_76: -9041885901370265869
+      checkpoint_77: 1318733583260853032
+      checkpoint_78: 2704954564344849716
+      checkpoint_79: 7111021629063818638
+      checkpoint_8: 2919271565075176553
+      checkpoint_80: 8879997436545234085
+      checkpoint_9: 2820686468507147538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
