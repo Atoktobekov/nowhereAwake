@@ -4,7 +4,7 @@ public class TeleportDoor : MonoBehaviour
 {
     public string doorColor; // Цвет двери, например "red", "blue"
     public Transform destination; // Куда телепортировать игрока (назначается автоматически)
-
+    public float cooldownTime = 3.5f;
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player") && destination != null)
@@ -12,8 +12,10 @@ public class TeleportDoor : MonoBehaviour
             PlayerController teleportState = other.GetComponent<PlayerController>();
             if (teleportState != null && !teleportState.recentlyTeleported)
             {
-                other.transform.position = destination.position;
-                teleportState.SetTeleportCooldown(3.5f); // сколько секунд игнорировать телепорт
+                Vector3 offset = new Vector3(0, 0.7f, 0); // Подними игрока на 0.5 единиц
+                other.transform.position = destination.position + offset;
+
+                teleportState.SetTeleportCooldown(cooldownTime); // сколько секунд игнорировать телепорт
             }
         }
     }
