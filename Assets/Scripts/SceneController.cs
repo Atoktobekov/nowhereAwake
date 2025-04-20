@@ -29,5 +29,15 @@ public class SceneController : MonoBehaviour
     {
         SceneManager.LoadSceneAsync(sceneName);
     }
+    public void QuitGame()
+    {
+        Debug.Log("Quit");
+        Application.Quit();
+    }
+
+    public void LoadSampleScene()
+    {
+        SceneManager.LoadSceneAsync("SampleScene");
+    }
  
 }

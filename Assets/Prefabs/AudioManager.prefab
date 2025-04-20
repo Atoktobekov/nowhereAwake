@@ -49,25 +49,34 @@ MonoBehaviour:
   musicSource: {fileID: 2857920832210671844}
   sfxSource: {fileID: 8200994747890045088}
   backgroundMusic: {fileID: 8300000, guid: 4ed2275f46f50f146b77615d9c364a12, type: 3}
-  menuMusic: {fileID: 8300000, guid: 7064288f50e39294bbb6dae95ecb1527, type: 3}
+  menuMusic: {fileID: 8300000, guid: 617da6fbcefffe6419599e3ed22d7eec, type: 3}
   sounds:
   - name: Jump
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 0b2c56d26f1b95f4b8e28c77cd449681, type: 3}
     volume: 1
   - name: Run
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 12b4ae3f4a3e4074f9d9ea8cd4b16b8c, type: 3}
     volume: 1
   - name: Hit
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: e1d89e42e56db504e939750c0da112c5, type: 3}
     volume: 1
   - name: Die
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 4c9a0eb08af978a498ab49d1c2df03ea, type: 3}
     volume: 1
   - name: Click
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 29e8bce253bcb23459767b13997abec9, type: 3}
     volume: 1
+  - name: Off
+    clip: {fileID: 8300000, guid: f4d932e893eecc44289365912db87798, type: 3}
+    volume: 1.5
+  - name: Dialogue
+    clip: {fileID: 8300000, guid: 5b31b01b4f22ded448160257127eb7bb, type: 3}
+    volume: 0.4
   - name: Door
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 5ea5556b9a6f5184da709ed6145965ef, type: 3}
+    volume: 1.5
+  - name: Checkpoint
+    clip: {fileID: 8300000, guid: 138c57901df2ec34bb3a767ab82fec20, type: 3}
     volume: 1
 --- !u!1 &4166369222689218301
 GameObject:

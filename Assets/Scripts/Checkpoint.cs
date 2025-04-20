@@ -9,6 +9,7 @@ public class Checkpoint : MonoBehaviour
         {
             if (!isPassed)
             {
+                AudioManager.instance.PlaySFX("Checkpoint");
                 isPassed = true;
                 collision.GetComponent<Health>().SetCheckpoint(transform.position);
             }

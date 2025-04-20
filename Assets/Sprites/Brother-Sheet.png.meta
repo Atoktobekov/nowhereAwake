@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brother-Sheet_0: -3460044732406512182
+      Brother-Sheet_1: -6139199636999901355
+      Brother-Sheet_2: 7023449808230908213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

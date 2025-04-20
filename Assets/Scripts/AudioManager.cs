@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class AudioManager : MonoBehaviour
 {
     public static AudioManager instance;
-    private const float musicVolumeMultiplier = 0.35f;
+    private const float musicVolumeMultiplier = 0.55f;
     private const float sfxVolumeMultiplier = 1f; // или тоже ослабить, если надо
 
 

@@ -63,7 +63,7 @@ public class PlayerController : MonoBehaviour
     }
     
     private void Move()
-    {
+    {   
         Vector2 targetVelocity = new Vector2(horizontalMove * 5f, rb.linearVelocity.y);
         rb.linearVelocity = targetVelocity;
     }
@@ -91,28 +91,19 @@ public class PlayerController : MonoBehaviour
         if ((isGrounded || jumpCount<extraJumps)
             && (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)))
         {
-            //AudioManager.instance.PlaySFX("Jump");
+            AudioManager.instance.PlaySFX("Jump");
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce); // Устанавливаем вертикальную скорость
             jumpCount++;
             animator.SetBool("Jump", true);
         }
 
     }
-
-    public void Bounce(float force)
-    {
-        if (rb != null)
-        {
-            //AudioManager.instance.PlaySFX("jump");
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0); // Сброс скорости по вертикали
-            rb.AddForce(Vector2.up * force, ForceMode2D.Impulse); // Применяем импульс вверх
-        }
-    }
+    
     
     public void getDamage(Vector2 vector2, float force)
     {
         if (rb != null)
-        {   //AudioManager.instance.PlaySFX("hit");
+        {   AudioManager.instance.PlaySFX("Hit");
             rb.linearVelocity = new Vector2(vector2.x * force, vector2.y * force);
             StartCoroutine(KnockbackCoroutine(0.2f));
         }

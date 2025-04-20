@@ -63,5 +63,10 @@ public class PauseMenu : MonoBehaviour
     {
         SceneController.instance.nextLevel();
     }
+    public void QuitGame()
+    {
+        Debug.Log("Quit");
+        Application.Quit();
+    }
     
 }

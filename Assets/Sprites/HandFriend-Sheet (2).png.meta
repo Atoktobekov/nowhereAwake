@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HandFriend-Sheet (2)_0: 8805599489204143349
+      HandFriend-Sheet (2)_1: -6821642328230933585
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

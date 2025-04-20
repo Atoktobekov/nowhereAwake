@@ -94,7 +94,7 @@ public class Health : MonoBehaviour
     {
         dead = false;
         AddHealth(startHealth);
-        //anim.ResetTrigger("die");
+        anim.ResetTrigger("Die");
         anim.Play("PlayerIdle");
         startHealth = 3;
     }
@@ -108,7 +108,7 @@ public class Health : MonoBehaviour
     
     private IEnumerator Die()
     {
-        //AudioManager.instance.PlaySFX("die");
+        AudioManager.instance.PlaySFX("Die");
         player.SetCanMove(false); 
         dead = true;
         anim.SetTrigger("Die");
@@ -126,7 +126,7 @@ public class Health : MonoBehaviour
     
     private IEnumerator DieFromCringe()
     {
-        //AudioManager.instance.PlaySFX("die");
+        AudioManager.instance.PlaySFX("Die");
         player.SetCanMove(false); 
         dead = true;
         anim.SetTrigger("Die");
@@ -177,5 +177,35 @@ public class Health : MonoBehaviour
         transform.position = respawnPoint;
         camTransform.position = targetPosition;
     }
+    
+    public void Retry()
+    {
+        StartCoroutine(RetryCoroutine());
+    }
+
+    private IEnumerator RetryCoroutine()
+    {
+        Time.timeScale = 1f;
+        RespawnHealth();
+
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        rb.simulated = false; // Отключаем физику
+
+        transform.position = respawnPoint;
+        gameOverPanel.SetActive(false);
+
+        yield return StartCoroutine(SmoothCameraAndPlayerReset());
+
+        anim.Play("Appearing");
+
+        yield return new WaitUntil(() => anim.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1f);
+
+        rb.simulated = true; // Включаем физику обратно
+
+        dead = false;
+        player.SetCanMove(true);
+    }
+
+
     
 }

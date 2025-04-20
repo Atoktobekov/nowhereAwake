@@ -11,7 +11,8 @@ public class TeleportDoor : MonoBehaviour
         {
             PlayerController teleportState = other.GetComponent<PlayerController>();
             if (teleportState != null && !teleportState.recentlyTeleported)
-            {
+            {   
+                AudioManager.instance.PlaySFX("Door");
                 Vector3 offset = new Vector3(0, 0.7f, 0); // Подними игрока на 0.5 единиц
                 other.transform.position = destination.position + offset;
 

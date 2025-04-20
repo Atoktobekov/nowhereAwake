@@ -39,6 +39,7 @@ public class DialogueManager : MonoBehaviour
             EndDialogia();
             return;
         }
+        AudioManager.instance.PlaySFX("Dialogue");
         string sentence = sentences.Dequeue();
         StopAllCoroutines();
         StartCoroutine(TypeSentence(sentence));
