@@ -25,10 +25,14 @@
 3. Запусти сцену `Scenes/SampleScene` или `Menu`
 4. Наслаждайся
 
-## 🧑‍💻 Автор
+## 🧑‍💻 Авторы
 
 - **Atoktobekov** — геймдизайн, код, сборка
 [GitHub](https://github.com/Atoktobekov) | [Itch.io](https://idonthave2live.itch.io)
+- **Aza** - UI-художник  
+[Telegram](https://t.me/idontwantyourproblems) | [Itch.io](https://hungerhuntus.itch.io/)
+- **Beka** - Pixel-art художник 
+[Telegram](https://t.me/Helpmeee789) | [Itch.io](https://thewgame.itch.io/)
 
 ## 📜 Лицензия
 
