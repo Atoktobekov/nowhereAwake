@@ -46,6 +46,8 @@
 
 🖤 Спасибо, что играешь. Пусть тебя обнимет мрак, но не поглотит.
 
+P.S. Игра принесла нам победу на геймджеме💪🔥
+
 
 
 ---
@@ -99,3 +101,5 @@ You are free to play, learn from, and explore the code — but please do not use
 ---
 
 🖤 Thank you for playing. Let the darkness embrace you, but never consume you.
+
+P.S. The game has won in the gamejam💪🔥
